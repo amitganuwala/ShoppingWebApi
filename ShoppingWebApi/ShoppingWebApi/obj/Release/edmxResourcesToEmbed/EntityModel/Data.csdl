@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShoppingMallNewMamModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblCardMaster">
+    <Key>
+      <PropertyRef Name="CardId" />
+    </Key>
+    <Property Name="CardId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ActDact" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CardNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CardPinno" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tblItemMaster">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="ID" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="ItemType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ItemName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ItemNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Quantity" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Rate" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="srno" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="tblItemType">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="ID" Type="Int64" />
+    <Property Name="ItemType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="srno" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="tblLogin">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UserId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="tblOrder">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="ID" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="ItemType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ItemName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ItemNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Quantity" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Rate" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="CardId" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ActDct" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="srno" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="tblPurchase">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="InvoiceID" Type="Int64" />
+    <Property Name="Date" Type="DateTime" Precision="3" />
+    <Property Name="ShopName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SupplierName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="GST" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="GrossAmount" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="CGSTPer" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="SGSTPer" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="GrandTotal" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="srno" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="tblPurchaseDetail">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="ID" Type="Int64" />
+    <Property Name="ItemType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ItemName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ItemNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Qty" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Rate" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Amount" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="HSN" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="srno" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="tblReg">
+    <Key>
+      <PropertyRef Name="Regid" />
+    </Key>
+    <Property Name="Regid" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Custaddress" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="MobileNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PinNo" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tblSale">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="SaleInvoiceID" Type="Int64" />
+    <Property Name="SaleDate" Type="DateTime" Precision="3" />
+    <Property Name="CustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="TotalQty" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="GrandAmt" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="srno" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="tblSaleDetail">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="SaleID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SaleItemName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SaleItemNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SaleQty" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="SaleRate" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="SaleAmount" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="srno" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblStock">
+    <Key>
+      <PropertyRef Name="Srno" />
+    </Key>
+    <Property Name="StockID" Type="Int64" />
+    <Property Name="ItemName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ItemType" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ItemNo" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="StockQty" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="StockRate" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Srno" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityContainer Name="ShoppingMallNewMamEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblCardMasters" EntityType="Self.tblCardMaster" />
+    <EntitySet Name="tblItemMasters" EntityType="Self.tblItemMaster" />
+    <EntitySet Name="tblItemTypes" EntityType="Self.tblItemType" />
+    <EntitySet Name="tblLogins" EntityType="Self.tblLogin" />
+    <EntitySet Name="tblOrders" EntityType="Self.tblOrder" />
+    <EntitySet Name="tblPurchases" EntityType="Self.tblPurchase" />
+    <EntitySet Name="tblPurchaseDetails" EntityType="Self.tblPurchaseDetail" />
+    <EntitySet Name="tblRegs" EntityType="Self.tblReg" />
+    <EntitySet Name="tblSales" EntityType="Self.tblSale" />
+    <EntitySet Name="tblSaleDetails" EntityType="Self.tblSaleDetail" />
+    <EntitySet Name="tblStocks" EntityType="Self.tblStock" />
+  </EntityContainer>
+</Schema>

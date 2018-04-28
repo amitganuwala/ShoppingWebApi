@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ShoppingMallNewMamModelStoreContainer" CdmEntityContainer="ShoppingMallNewMamEntities1">
+    <EntitySetMapping Name="tblCardMasters">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblCardMaster">
+        <MappingFragment StoreEntitySet="tblCardMaster">
+          <ScalarProperty Name="CardId" ColumnName="CardId" />
+          <ScalarProperty Name="ActDact" ColumnName="ActDact" />
+          <ScalarProperty Name="CardNo" ColumnName="CardNo" />
+          <ScalarProperty Name="CardPinno" ColumnName="CardPinno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblItemMasters">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblItemMaster">
+        <MappingFragment StoreEntitySet="tblItemMaster">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ItemType" ColumnName="ItemType" />
+          <ScalarProperty Name="ItemName" ColumnName="ItemName" />
+          <ScalarProperty Name="ItemNo" ColumnName="ItemNo" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Rate" ColumnName="Rate" />
+          <ScalarProperty Name="srno" ColumnName="srno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblItemTypes">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblItemType">
+        <MappingFragment StoreEntitySet="tblItemType">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ItemType" ColumnName="ItemType" />
+          <ScalarProperty Name="srno" ColumnName="srno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblLogins">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblLogin">
+        <MappingFragment StoreEntitySet="tblLogin">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblOrders">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblOrder">
+        <MappingFragment StoreEntitySet="tblOrder">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ItemType" ColumnName="ItemType" />
+          <ScalarProperty Name="ItemName" ColumnName="ItemName" />
+          <ScalarProperty Name="ItemNo" ColumnName="ItemNo" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Rate" ColumnName="Rate" />
+          <ScalarProperty Name="CardId" ColumnName="CardId" />
+          <ScalarProperty Name="ActDct" ColumnName="ActDct" />
+          <ScalarProperty Name="srno" ColumnName="srno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPurchases">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblPurchase">
+        <MappingFragment StoreEntitySet="tblPurchase">
+          <ScalarProperty Name="InvoiceID" ColumnName="InvoiceID" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="SupplierName" ColumnName="SupplierName" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="GST" ColumnName="GST" />
+          <ScalarProperty Name="GrossAmount" ColumnName="GrossAmount" />
+          <ScalarProperty Name="CGSTPer" ColumnName="CGSTPer" />
+          <ScalarProperty Name="SGSTPer" ColumnName="SGSTPer" />
+          <ScalarProperty Name="GrandTotal" ColumnName="GrandTotal" />
+          <ScalarProperty Name="srno" ColumnName="srno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPurchaseDetails">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblPurchaseDetail">
+        <MappingFragment StoreEntitySet="tblPurchaseDetail">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ItemType" ColumnName="ItemType" />
+          <ScalarProperty Name="ItemName" ColumnName="ItemName" />
+          <ScalarProperty Name="ItemNo" ColumnName="ItemNo" />
+          <ScalarProperty Name="Qty" ColumnName="Qty" />
+          <ScalarProperty Name="Rate" ColumnName="Rate" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="HSN" ColumnName="HSN" />
+          <ScalarProperty Name="srno" ColumnName="srno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRegs">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblReg">
+        <MappingFragment StoreEntitySet="tblReg">
+          <ScalarProperty Name="Regid" ColumnName="Regid" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="Custaddress" ColumnName="Custaddress" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+          <ScalarProperty Name="PinNo" ColumnName="PinNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSales">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblSale">
+        <MappingFragment StoreEntitySet="tblSale">
+          <ScalarProperty Name="SaleInvoiceID" ColumnName="SaleInvoiceID" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="TotalQty" ColumnName="TotalQty" />
+          <ScalarProperty Name="GrandAmt" ColumnName="GrandAmt" />
+          <ScalarProperty Name="srno" ColumnName="srno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSaleDetails">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblSaleDetail">
+        <MappingFragment StoreEntitySet="tblSaleDetails">
+          <ScalarProperty Name="SaleID" ColumnName="SaleID" />
+          <ScalarProperty Name="SaleItemName" ColumnName="SaleItemName" />
+          <ScalarProperty Name="SaleItemNo" ColumnName="SaleItemNo" />
+          <ScalarProperty Name="SaleQty" ColumnName="SaleQty" />
+          <ScalarProperty Name="SaleRate" ColumnName="SaleRate" />
+          <ScalarProperty Name="SaleAmount" ColumnName="SaleAmount" />
+          <ScalarProperty Name="srno" ColumnName="srno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblStocks">
+      <EntityTypeMapping TypeName="ShoppingMallNewMamModel.tblStock">
+        <MappingFragment StoreEntitySet="tblStock">
+          <ScalarProperty Name="StockID" ColumnName="StockID" />
+          <ScalarProperty Name="ItemName" ColumnName="ItemName" />
+          <ScalarProperty Name="ItemType" ColumnName="ItemType" />
+          <ScalarProperty Name="ItemNo" ColumnName="ItemNo" />
+          <ScalarProperty Name="StockQty" ColumnName="StockQty" />
+          <ScalarProperty Name="StockRate" ColumnName="StockRate" />
+          <ScalarProperty Name="Srno" ColumnName="Srno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

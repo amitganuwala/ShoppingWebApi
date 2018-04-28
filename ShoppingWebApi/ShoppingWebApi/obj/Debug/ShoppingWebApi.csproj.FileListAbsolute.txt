@@ -1,0 +1,657 @@
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+D:\SKY VISION PROJECT\Student Project\WebApi\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+C:\inetpub\wwwroot\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+D:\SKY VISION PROJECT\Student Project\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+D:\Supermarket 16.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+D:\SuperMarket\SuperMarket 18.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+D:\SuperMarket\SuperMarket 19.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\AsyncDataAdapter.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+C:\Users\Prashant\Documents\Visual Studio 2017\SuperMarket 20.12.17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\AsyncDataAdapter.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+C:\Users\Prashant\Documents\Project Backup\Shopping Mall\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\AsyncDataAdapter.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+D:\prashant\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\AsyncDataAdapter.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+I:\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\AsyncDataAdapter.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+C:\Users\Pallavi\Desktop\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\AsyncDataAdapter.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+D:\prashant\Shopping 27.01.18\Shopping Mall 29-12-17\WebApiNew\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\ApplicationInsights.config
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\csc.exe
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\vbc.exe
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll.config
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\ShoppingWebApi.pdb
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\AsyncDataAdapter.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Razor.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Helpers.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\bin\System.Web.Mvc.xml
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.dll
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.pdb
+C:\Users\Prashant\Pictures\ShopMarcket Android Api\ShoppingWebApi\ShoppingWebApi\obj\Debug\ShoppingWebApi.csprojResolveAssemblyReference.cache

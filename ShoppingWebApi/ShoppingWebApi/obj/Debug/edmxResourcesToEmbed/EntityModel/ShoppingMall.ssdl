@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShoppingMallModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2005" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblCardMaster">
+    <Key>
+      <PropertyRef Name="CardId" />
+    </Key>
+    <Property Name="CardId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ActDact" Type="varchar" MaxLength="50" />
+    <Property Name="CardNo" Type="varchar" MaxLength="50" />
+    <Property Name="CardPinno" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblItemMaster">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="ID" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="ItemType" Type="varchar" MaxLength="50" />
+    <Property Name="ItemName" Type="varchar" MaxLength="50" />
+    <Property Name="ItemNo" Type="varchar" MaxLength="50" />
+    <Property Name="Quantity" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Rate" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="srno" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblItemType">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="ID" Type="bigint" />
+    <Property Name="ItemType" Type="varchar" MaxLength="50" />
+    <Property Name="srno" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblLogin">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserName" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+    <Property Name="UserId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblOrder">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="ID" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="ItemType" Type="varchar" MaxLength="50" />
+    <Property Name="ItemName" Type="varchar" MaxLength="50" />
+    <Property Name="ItemNo" Type="varchar" MaxLength="50" />
+    <Property Name="Quantity" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Rate" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="TotAmt" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="CardId" Type="varchar" MaxLength="50" />
+    <Property Name="ActDct" Type="varchar" MaxLength="50" />
+    <Property Name="srno" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblPurchase">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="InvoiceID" Type="bigint" />
+    <Property Name="Date" Type="datetime" />
+    <Property Name="ShopName" Type="varchar" MaxLength="50" />
+    <Property Name="SupplierName" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="500" />
+    <Property Name="GST" Type="varchar" MaxLength="50" />
+    <Property Name="GrossAmount" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="CGSTPer" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="SGSTPer" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="GrandTotal" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="srno" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblPurchaseDetail">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="ID" Type="bigint" />
+    <Property Name="ItemType" Type="varchar" MaxLength="50" />
+    <Property Name="ItemName" Type="varchar" MaxLength="50" />
+    <Property Name="ItemNo" Type="varchar" MaxLength="50" />
+    <Property Name="Qty" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Rate" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Amount" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="HSN" Type="varchar" MaxLength="50" />
+    <Property Name="srno" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblReg">
+    <Key>
+      <PropertyRef Name="Regid" />
+    </Key>
+    <Property Name="Regid" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerName" Type="varchar" MaxLength="50" />
+    <Property Name="Custaddress" Type="varchar" MaxLength="500" />
+    <Property Name="MobileNo" Type="varchar" MaxLength="50" />
+    <Property Name="PinNo" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="tblSale">
+    <Key>
+      <PropertyRef Name="srno" />
+    </Key>
+    <Property Name="SaleInvoiceID" Type="bigint" />
+    <Property Name="SaleDate" Type="datetime" />
+    <Property Name="CustomerName" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="500" />
+    <Property Name="TotalQty" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="GrandAmt" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="srno" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblSaleDetails">
+    <Key>
+      <PropertyRef Name="SaleID" />
+    </Key>
+    <Property Name="SaleID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SaleItemName" Type="varchar" MaxLength="50" />
+    <Property Name="SaleItemNo" Type="varchar" MaxLength="50" />
+    <Property Name="SaleQty" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="SaleRate" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="SaleAmount" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="sDate" Type="datetime" />
+    <Property Name="srno" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblStock">
+    <Key>
+      <PropertyRef Name="Srno" />
+    </Key>
+    <Property Name="StockID" Type="bigint" />
+    <Property Name="ItemName" Type="varchar(max)" />
+    <Property Name="ItemType" Type="varchar(max)" />
+    <Property Name="ItemNo" Type="varchar(max)" />
+    <Property Name="StockQty" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="StockRate" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Srno" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ShoppingMallModelStoreContainer">
+    <EntitySet Name="tblCardMaster" EntityType="Self.tblCardMaster" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblItemMaster" EntityType="Self.tblItemMaster" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblItemType" EntityType="Self.tblItemType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblLogin" EntityType="Self.tblLogin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblOrder" EntityType="Self.tblOrder" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblPurchase" EntityType="Self.tblPurchase" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblPurchaseDetail" EntityType="Self.tblPurchaseDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblReg" EntityType="Self.tblReg" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblSale" EntityType="Self.tblSale" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblSaleDetails" EntityType="Self.tblSaleDetails" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblStock" EntityType="Self.tblStock" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
